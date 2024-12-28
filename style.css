@@ -1,0 +1,23 @@
+body{
+  background: rosybrown;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+h1{
+  color: black;
+}
+.chi1{
+  text-align:justify;
+}
+.chi2{
+  text-align: justify;
+} 
+div{
+  height: 90px;
+  width: 320px;
+  background: darkgray;
+  padding-left: 10px;
+  p{
+    color: white;
+  }
+}
